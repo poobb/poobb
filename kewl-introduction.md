@@ -6,5 +6,5 @@ what's good my fellas, my astute gentlemen, I am THE sigma, probs.
 I'm like EXTREMELY new to github so like be easy, n like awesome
 <hr>
 <h1> the epic reckoning 😎😎😎😎</h1>
-<p> idk lol</p>
+idk lol
 <hr>
