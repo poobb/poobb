@@ -1,4 +1,9 @@
-<h1 style=text-align:center;> sick and awesome introduction 😎</h1>
+<style>
+  GITH1{
+    text-align:center;
+  }
+</style>
+<h1 class=GITH1> sick and awesome introduction 😎</h1>
 <hr>
 what's good my fellas, my astute gentlemen, I am THE sigma, probs.
 <hr>
